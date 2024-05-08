@@ -136,6 +136,9 @@ Footer - sample text
     margin-left: 13%;
     
   }
+  .logo-image{
+    max-width: 49px;
+  }
   
   /* Footer styles */
   footer {
@@ -154,7 +157,9 @@ Footer - sample text
         <!-- <div class="logo">Your Logo</div> -->
         <div class="logo">
             <!-- Left logo -->
-            <img src="avatar-1.png" alt="Your Logo" />
+            <img class="logo-image"
+                src="https://th.bing.com/th/id/R.aa87274dccc94d1320f99ad87304b8cc?rik=FZ4kCne%2bm8BRZA&riu=http%3a%2f%2fwww.adamanthr.com%2fwp-content%2fuploads%2f2016%2f04%2fdummy-man-570x570.png&ehk=BaZj0MLfrYDkfnYFaOp3HCC5ZX%2fq8lmzYVpaq4WYyI0%3d&risl=&pid=ImgRaw&r=0"
+                alt="Your Logo" />
         </div>
         <nav>
             <ul>
@@ -199,7 +204,8 @@ Footer - sample text
         <main>
             <section class="content-box" id="1st">
                 <h1>Achievment </h1>
-                <img src="achievment.png" alt="Achievment" />
+                <img src="https://freepngimg.com/thumb/gold/81988-achievement-trophy-yellow-award-gold-free-clipart-hq.png"
+                    alt="Achievment" />
 
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci id perferendis ex, incidunt unde
                     facilis quibusdam dolore porro blanditiis sit facere placeat eos voluptatibus, ipsum fugit earum
@@ -212,7 +218,8 @@ Footer - sample text
             </section>
             <section class="content-box" id="2nd">
                 <h1>Exprience</h1>
-                <img src="exprience.png" alt="exprience" />
+                <img src="https://www.freeiconspng.com/thumbs/experience/experience-information-image-job-knowledge-concept-icon-symbol-5.png"
+                    alt="exprience" />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur maxime debitis dignissimos
                     accusamus, modi incidunt quae aut placeat necessitatibus? Cumque optio dolor dignissimos totam?
                     Vero. Lorem ipsum dolor sit amet consectetur adipisicing elit. In et veritatis accusantium nulla
@@ -221,7 +228,8 @@ Footer - sample text
             </section>
             <section class="content-box" id="3rd">
                 <h1>Project</h1>
-                <img src="project.png" alt="project" />
+                <img src="https://th.bing.com/th/id/R.c3ca17d5807baebbc4b5d199ec9d43d2?rik=z0coyY7O5YRVkA&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fproject-management-icon-png-52.png&ehk=KVUKozQFSbU6GHpRL6%2fqYR0DXTAu0rBhmQ7Bg5h4zR4%3d&risl=&pid=ImgRaw&r=0"
+                    alt="project" />
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora obcaecati omnis quis rem
                     voluptatibus. Aut odio et nam nostrum numquam, praesentium perferendis inventore, voluptas suscipit
                     dolor rerum quibusdam quae ea non illum consequatur doloribus hic. Ipsum dolore rerum reiciendis
