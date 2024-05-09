@@ -1,5 +1,5 @@
 
-1.What is the output of this snippet of code?
+//1.What is the output of this snippet of code?
 
 function foo() {
     x = 1;
@@ -9,9 +9,9 @@ function foo() {
 }
 alert( typeof foo() );
 
-OUTPUT: String
+//OUTPUT: String
 
-2.What is the output of this snippet of code?
+//2.What is the output of this snippet of code?
 
 function foo() {
     return x;
@@ -23,9 +23,9 @@ function foo() {
 }
 console.log( typeof foo() ); 
 
-OUTPUT: Function
+//OUTPUT: Function
 
-What is the output of this snippet of code?
+//What is the output of this snippet of code?
 
 var x = 1;
 function foo() {
@@ -36,4 +36,4 @@ function foo() {
 foo();
 console.log( x );
 
-OUTPUT: 1
+//OUTPUT: 1
