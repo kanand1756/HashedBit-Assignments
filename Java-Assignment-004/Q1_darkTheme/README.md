@@ -17,7 +17,7 @@ Cliking the button should call the swapTheme function.
 
 Note: Do not change the CSS code -->
 
-
+/*
 <div id="app" class="day">
     <p>I am a HashedBit student, ready to become an awesome full stack developer</p>
     <button onclick="swapTheme()" id="swap" class="button_day">Toggle theme</button>
@@ -52,3 +52,4 @@ html, body {
     height: 100%;
     padding: 10px;
 }
+*/
